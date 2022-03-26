@@ -1,7 +1,7 @@
-### Hello, I'm Yamahar ! :sunglasses:
+### Hello, I'm Yamahar! :sunglasses:
 
-Thank you to come my profile !  
-Here is my introduction site !  
+Thank you to come to my profile!  
+Here is my introduction site!  
 [Introduction site](https://yamahar.work)
 
 <p align="left">
