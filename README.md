@@ -8,7 +8,7 @@ For details, please open this link!
 
 I often use emoji to describe my commit message.  
 This repo is my commit message description.  
-[commit-message-for-me](https://github.com/shebang-sh/commit-message-for-me)
+[gitcm](https://github.com/shebang-sh/gitcm)
 
 <p align="left">
 
